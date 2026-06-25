@@ -44,51 +44,22 @@ The architecture is explicitly designed to eliminate single points of failure (S
 ## 📊 Empirical Evidence & Project Artifacts
 
 ### I. Server Core Virtualization & High-Availability Replicas
-* **Windows Server 2022 Headless Server Core (SConfig CLI):**
+* **Windows Server 2022 Headless Server Core & Hyper-V Replica:**
+  *(تأكد من تعديل اسم الصورة هنا بما يطابق صورتك للـ Server Core والـ Replica)*
   ![Server Core](images/1755191193026_2.jpg)
-* **Hyper-V Replica Real-Time Failover Console:**
   ![Hyper-V](images/1755191195834_2.jpg)
-* **Remote Desktop Connection (RDP) Identity Handshake Verification:**
-  ![RDP Handshake](images/1755191193209_2.jpg)
 
 ### II. Corporate Infrastructure Name Resolution (DNS Database)
-* **Active Forward Lookup Zones & Domain Resource Mappings:**
+* **Active Forward Lookup Zones:**
   ![DNS Zone](images/1755191195074_2.jpg)
 
-### III. Granular Storage Security & RBAC Policies
-* **Enforced NTFS Group Permissions (HR-Group Access Lists):**
-  ![NTFS Permissions](images/1755191194141_2.jpg)
-* **Advanced Share Properties Layout for Hidden SMB Directory:**
-  ![Printer and Share Management](images/1755191192598.jpg)
-* **Active Hard Volume Disk Quotas Configurations:**
-  ![Disk Quotas](images/1755191188175.jpg)
-* **Group Policy Preferences (GPP) Active Drive-Mapping Engine:**
-  ![Drive Mapping](images/1755191177235_2.jpg)
-
-### IV. Group Policy Objects (GPO Compliance Baselines)
-* **Centralized Wallpaper Path GPO Configuration Console:**
-  ![GPO Wallpaper](images/1755191196053_2.jpg)
-
-### V. Automated Client Provisioning & Lifecycle Patch Operations
-* **WDS Active PXE Client Operating System Repositories:**
+### III. Automated Client Provisioning & Lifecycle Patch Operations
+* **WDS Active PXE Client Deployment:**
   ![WDS PXE](images/1755191186137_2.jpg)
-* **WSUS Central Update Patch Classification Console:**
+* **WSUS Central Update Patch Console:**
   ![WSUS Update](images/1755191188221_2.jpg)
 
-### VI. Enterprise Fleet Printing Architecture
-* **Print Management Isolated Driver Subsystem Dashboard:**
-  ![Print Management Drivers](images/1755191197948_2.jpg)
-* **Network Shared Printer Properties Configuration Frame:**
-  ![Server Backup and Printers](images/1755191192598.jpg)
-
-### VII. Business Continuity & Administrative Automation
-* **PowerShell Remote Assistance Command Pipeline Console:**
-  ![PowerShell Remote](images/1755191192824.jpg)
-* **Scheduled Windows Server Backup Operational Success Logs:**
-  ![Backup Success Logs](images/1755191191517_2.jpg)
-
-### VIII. Multi-Site Web Infrastructure (IIS Web App Targets)
-* **IIS Site Node Hierarchy Administration Panel:**
+### IV. Granular Storage Security & IIS Web Farms
+* **Active Hard Volume Disk Quotas & IIS Panels:**
+  ![Disk Quotas](images/1755191188175.jpg)
   ![IIS Dashboard](images/1755191191396.jpg)
-* **Live Hybrid Web Application Active Port Landing Page Target:**
-  ![IIS Landing Page](images/1755191185668_2.jpg)
