@@ -41,33 +41,5 @@ The architecture is explicitly designed to eliminate single points of failure (S
 
 ---
 
-## 📊 Empirical Evidence & Project Artifacts
-
-> 💡 **Architectural Note:** All underlying configuration states, console outputs, and enterprise deployment verifications are fully cataloged within the local repository repository environment.
-
-### I. Comprehensive Infrastructure Verification Gallery
-
-To review the live deployment states, active directory lookups, policy enforcement screens, and headless virtualization frames, reference the verified production artifacts chronologically below:
-
-| Artifact Reference | Production System Documentation Frame |
-| :--- | :--- |
-| **System Identity & Drive Mapping** | ![Infrastructure Frame 1](images/1755191177235_2.jpg) |
-| **Active Hard Volume Disk Quotas** | ![Infrastructure Frame 2](images/1755191188175.jpg) |
-| **WDS PXE Boot Ingestion Core** | ![Infrastructure Frame 3](images/1755191186137_2.jpg) |
-| **WSUS Central Patch Topologies** | ![Infrastructure Frame 4](images/1755191188221_2.jpg) |
-| **IIS App Pool Multi-Site Hierarchy** | ![Infrastructure Frame 5](images/1755191191396.jpg) |
-| **Active Port-Binding Application Target** | ![Infrastructure Frame 6](images/1755191185668_2.jpg) |
-| **Windows Server Backup Execution Logs** | ![Infrastructure Frame 7](images/1755191191517_2.jpg) |
-| **PowerShell Remote Diagnostics CLI** | ![Infrastructure Frame 8](images/1755191192824.jpg) |
-| **Printer Subsystem Management** | ![Infrastructure Frame 9](images/1755191192598.jpg) |
-| **Server Core Headless Node (SConfig)** | ![Infrastructure Frame 10](images/1755191193026_2.jpg) |
-| **Authenticated RDP Identity Handshake** | ![Infrastructure Frame 11](images/1755191193209_2.jpg) |
-| **NTFS Directory Access Control Lists (ACL)** | ![Infrastructure Frame 12](images/1755191194141_2.jpg) |
-| **DNS Database Forward Lookup Zones** | ![Infrastructure Frame 13](images/1755191195074_2.jpg) |
-| **Hyper-V Replica Synchronization Fabrics** | ![Infrastructure Frame 14](images/1755191195834_2.jpg) |
-| **Universal GPO Workspace Enforcements** | ![Infrastructure Frame 15](images/1755191196053_2.jpg) |
-| **Print Management Driver Subsystems** | ![Infrastructure Frame 16](images/1755191197948_2.jpg) |
-
----
-  ![Disk Quotas](images/1755191188175.jpg)
-  ![IIS Dashboard](images/1755191191396.jpg)
+## 📊 Project Artifacts & Verification
+> 💡 **Repository Note:** Detailed step-by-step console logs, active directory forward zones, group policies, and network interface screenshots are fully cataloged and accessible within the `images/` directory of this repository for active compliance audits.
